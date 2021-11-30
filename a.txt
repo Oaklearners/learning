@@ -1,0 +1,1 @@
+hi this is simple a.txt file .. this is just for learning how git is working
